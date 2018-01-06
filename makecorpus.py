@@ -10,14 +10,14 @@ stopwords = open("stopwords.txt", "r").read().split()
 stopwords = [x.strip(punctuation) for x in stopwords if len(x)>2]
 
 # get list of all PDFs supplied by NIPS
-relpath = "nips25offline/content/"
+relpath = "literature/"
 allFiles = os.listdir(relpath)
 pdfs = [x for x in allFiles if x.endswith(".pdf")]
 
 # go over every PDF, use pdftotext to get all words, discard boring ones, and count frequencies
 outf = open("allpapers.txt", "w")
 for i,f in enumerate(pdfs):
-	paperid = f[9:-4]
+	paperid = f[:-4]
 	fullpath = relpath + f
 
 	print "processing %s, %d/%d" % (paperid, i, len(pdfs))

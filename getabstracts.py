@@ -10,12 +10,12 @@ from string import punctuation
 from operator import itemgetter
 
 # get list of all PDFs supplied by NIPS
-relpath = "nips25offline/content/"
+relpath = "literature/"
 allFiles = os.listdir(relpath)
 pdfs = [x for x in allFiles if x.endswith(".pdf")]
 
 for i,f in enumerate(pdfs):
-	paperid = f[9:-4]
+	paperid = f[:-4]
 	fullpath = relpath + f
 
 	print "processing %s, %d/%d" % (paperid, i, len(pdfs))
@@ -26,7 +26,7 @@ for i,f in enumerate(pdfs):
 	os.system(cmd)
 
 	txt = open("out.txt").read()
-	L = txt.split("\n")
+    L = txt.split("\n")
 
 	# basically, we find the line that says Abstract
 	# and then go down until we see an empty line
