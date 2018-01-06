@@ -1,4 +1,3 @@
-
 @article{Chambolle04jmiv,
   title={An algorithm for total variation minimization and applications},
   author={Chambolle, Antonin},
@@ -6,7 +5,7 @@
   volume={20},
   number={1},
   pages={89--97},
-  year={2004},
+  year=2004,
   publisher={Springer}
 }
 ==================
@@ -16,7 +15,7 @@
 	journal=PAMI,
 	number={6},
 	pages={715--729},
-	year={1986},
+	year=1986,
 	publisher={IEEE}
 }
 ==================
@@ -27,14 +26,13 @@
   volume={29},
   number={7},
   pages={1180--1193},
-  year={2007},
+  year=2007,
   publisher={IEEE}
 }
 ==================
 @inproceedings{Akhter09nips,
   title =	 {Nonrigid Structure from Motion in Trajectory Space},
-  author =	 {Ijaz Akhter and Yaser Sheikh and Sohaib Khan and
-                  Takeo Kanade},
+  author =	 {Ijaz Akhter and Yaser Sheikh and Sohaib Khan and Takeo Kanade},
   booktitle =	 NIPS,
   pages =	 {41--48},
   year =	 2009,
@@ -45,7 +43,7 @@
   title={Optical flow estimation using a spatial pyramid network},
   author={Ranjan, Anurag and Black, Michael J},
   journal={arXiv preprint arXiv:1611.00850},
-  year={2016}
+  year=2016
 }
 ==================
 @inproceedings{Zabih94eccv,
@@ -53,7 +51,7 @@
   author={Zabih, Ramin and Woodfill, John},
   booktitle=ECCV,
   pages={151--158},
-  year={1994},
+  year=1994,
   organization={Springer}
 }
 ==================
@@ -61,25 +59,25 @@
   title={Guided optical flow learning},
   author={Zhu, Yi and Lan, Zhenzhong and Newsam, Shawn and Hauptmann, Alexander G},
   journal={arXiv preprint arXiv:1702.02295},
-  year={2017}
+  year=2017
 }
 ==================
 @article{Pang17arXiv,
   title={Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching},
   author={Pang, Jiahao and Sun, Wenxiu and Ren, Jimmy SJ and Yang, Chengxi and Yan, Qiong},
   journal={arXiv preprint arXiv:1708.09204},
-  year={2017}
+  year=2017
 }
 ==================
 @inproceedings{Ilg17cvpr,
-  author       = "E. Ilg and N. Mayer and T. Saikia and M. Keuper and A. Dosovitskiy and T. Brox",
-  title        = "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks",
+  author       = {E. Ilg and N. Mayer and T. Saikia and M. Keuper and A. Dosovitskiy and T. Brox},
+  title        = {FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks},
   booktitle    = CVPR,
-  year         = "2017"
+  year         = 2017
 }
 ==================
 @article{Kappes15ijcv,
-year={2015},
+year=2015,
 issn={0920-5691},
 journal=IJCV,
 title={A Comparative Study of Modern Inference Techniques for Structured Discrete Energy Minimization Problems},
@@ -91,9 +89,7 @@ pages={1-30},
 @inproceedings{Alcantarilla12icra,
   author =	 {Alcantarilla, P. F. and Yebes, J. J. and Almaz,
                   J. and x00E and Bergasa, L. M.},
-  title =	 {On combining visual SLAM and dense scene flow to
-                  increase the robustness of localization and mapping
-                  in dynamic environments},
+  title =	 {On combining visual SLAM and dense scene flow to increase the robustness of localization and mapping in dynamic environments},
   booktitle =	 ICRA,
   pages =	 {1290-1297},
   ISBN =	 {1050-4729},
@@ -102,10 +98,8 @@ pages={1-30},
 }
 ==================
 @inproceedings{Alhaija15gcpr,
-  title =	 {GraphFlow--6D Large Displacement Scene Flow via
-                  Graph Matching},
-  author =	 {Alhaija, Hassan Abu and Sellent, Anita and
-                  Kondermann, Daniel and Rother, Carsten},
+  title =	 {GraphFlow--6D Large Displacement Scene Flow via Graph Matching},
+  author =	 {Alhaija, Hassan Abu and Sellent, Anita and Kondermann, Daniel and Rother, Carsten},
   booktitle =	 GCPR,
   pages =	 {285--296},
   year =	 2015,
@@ -116,8 +110,7 @@ pages={1-30},
   author =	 {Baker, Simon and Scharstein, Daniel and Lewis,
                   J. P. and Roth, Stefan and Black, Michael J. and
                   Szeliski, Richard},
-  title =	 {A Database and Evaluation Methodology for Optical
-                  Flow},
+  title =	 {A Database and Evaluation Methodology for Optical Flow},
   journal =	 IJCV,
   volume =	 92,
   number =	 1,
@@ -131,10 +124,8 @@ pages={1-30},
 }
 ==================
 @article{Baker11ijcv,
-  author =	 {Baker, S. and Scharstein, D. and Lewis, J. P. and
-                  Roth, S. and Black, M. J. and Szeliski, R.},
-  title =	 {A Database and Evaluation Methodology for Optical
-                  Flow},
+  author =	 {Baker, S. and Scharstein, D. and Lewis, J. P. and Roth, S. and Black, M. J. and Szeliski, R.},
+  title =	 {A Database and Evaluation Methodology for Optical Flow},
   journal =	 IJCV,
   volume =	 92,
   number =	 1,
@@ -158,8 +149,7 @@ pages={1-30},
 ==================
 @inproceedings{Basha10cvpr,
   author =	 {Basha, T. and Moses, Y. and Kiryati, N.},
-  title =	 {Multi-view scene flow estimation: A view centered
-                  variational approach},
+  title =	 {Multi-view scene flow estimation: A view centered variational approach},
   booktitle =	 CVPR,
   pages =	 {1506-1513},
   ISBN =	 {1063-6919},
@@ -168,8 +158,7 @@ pages={1-30},
 }
 ==================
 @inproceedings{Basha12cvpr,
-  author =	 {Basha, T. and Avidan, S. and Hornung, A. and
-                  Matusik, W.},
+  author =	 {Basha, T. and Avidan, S. and Hornung, A. and Matusik, W.},
   title =	 {Structure and motion from scene registration},
   booktitle =	 CVPR,
   pages =	 {1426-1433},
@@ -180,8 +169,7 @@ pages={1-30},
 ==================
 @article{Basha13ijcv,
   author =	 {Basha, T. and Moses, Y. and Kiryati, N.},
-  title =	 {Multi-view Scene Flow Estimation: A View Centered
-                  Variational Approach},
+  title =	 {Multi-view Scene Flow Estimation: A View Centered Variational Approach},
   journal =	 IJCV,
   volume =	 101,
   number =	 1,
@@ -192,11 +180,8 @@ pages={1-30},
 }
 ==================
 @article{Becker13ijcv,
-  author =	 {Becker, F. and Lenzen, F. and Kappes, J. H. and
-                  Schnorr, C.},
-  title =	 {Variational Recursive Joint Estimation of Dense
-                  Scene Structure and Camera Motion from Monocular
-                  High Speed Traffic Sequences},
+  author =	 {Becker, F. and Lenzen, F. and Kappes, J. H. and Schnorr, C.},
+  title =	 {Variational Recursive Joint Estimation of Dense Scene Structure and Camera Motion from Monocular High Speed Traffic Sequences},
   journal =	 IJCV,
   volume =	 105,
   number =	 3,
@@ -207,13 +192,8 @@ pages={1-30},
 }
 ==================
 @inproceedings{Behl17iccv,
-  author =	 {Aseem Behl and Omid Hosseini Jafari and Siva Karthik
-                  Mustikovela and Hassan Abu Alhaija and Carsten
-                  Rother and Andreas Geiger},
-  title =	 {Bounding Boxes, Segmentations and Object
-                  Coordinates: How Important is Recognition for 3D
-                  Scene Flow Estimation in Autonomous Driving
-                  Scenarios?},
+  author =	 {Aseem Behl and Omid Hosseini Jafari and Siva Karthik Mustikovela and Hassan Abu Alhaija and Carsten Rother and Andreas Geiger},
+  title =	 {Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?},
   booktitle =	 ICCV,
   year =	 2017
 }
@@ -229,20 +209,16 @@ pages={1-30},
 }
 ==================
 @inproceedings{Bleyer11bmvc,
-  title =	 {PatchMatch Stereo - Stereo Matching with Slanted
-                  Support Windows},
-  author =	 {Bleyer, Michael and Rhemann, Christoph and Rother,
-                  Carsten},
+  title =	 {PatchMatch Stereo - Stereo Matching with Slanted Support Windows},
+  author =	 {Bleyer, Michael and Rhemann, Christoph and Rother, Carsten},
   booktitle =	 BMVC,
   pages =	 {14.1-14.11},
   year =	 2011,
 }
 ==================
 @article{Bregler07pami,
-  author =	 {Chris, Bregler and Lorenzo, Torresani and Aaron,
-                  Hertzmann},
-  title =	 {Nonrigid Structure-from-Motion: Estimating Shape and
-                  Motion with Hierarchical Priors},
+  author =	 {Chris, Bregler and Lorenzo, Torresani and Aaron, Hertzmann},
+  title =	 {Nonrigid Structure-from-Motion: Estimating Shape and Motion with Hierarchical Priors},
   journal =	 PAMI,
   volume =	 30,
   year =	 2007,
@@ -251,10 +227,8 @@ pages={1-30},
 }
 ==================
 @inproceedings{Brox04eccv,
-  title =	 {High accuracy optical flow estimation based on a
-                  theory for warping},
-  author =	 {Brox, Thomas and Bruhn, Andr{\'e}s and Papenberg,
-                  Nils and Weickert, Joachim},
+  title =	 {High accuracy optical flow estimation based on a theory for warping},
+  author =	 {Brox, Thomas and Bruhn, Andr{\'e}s and Papenberg, Nils and Weickert, Joachim},
   booktitle =	 ECCV,
   pages =	 {25-36},
   year =	 2004,
@@ -263,8 +237,7 @@ pages={1-30},
 ==================
 @article{Brox11pami,
   author =	 {Brox, Thomas and Malik, Jitendra},
-  title =	 {Large Displacement Optical Flow: Descriptor Matching
-                  in Variational Motion Estimation},
+  title =	 {Large Displacement Optical Flow: Descriptor Matching in Variational Motion Estimation},
   journal =	 PAMI,
   issue_date =	 {March 2011},
   volume =	 33,
@@ -274,9 +247,6 @@ pages={1-30},
   issn =	 {0162-8828},
   pages =	 {500--513},
   numpages =	 14,
-  url =		 {http://dx.doi.org/10.1109/TPAMI.2010.143},
-  doi =		 {10.1109/TPAMI.2010.143},
-  acmid =	 1936562,
   publisher =	 {IEEE Computer Society},
   address =	 {Washington, DC, USA},
   keywords =	 {Motion, Motion, video, optical flow., optical flow.,
@@ -284,20 +254,16 @@ pages={1-30},
 }
 ==================
 @book{Buehler09book,
-  author =	 {Buehler, Martin and Iagnemma, Karl and Singh,
-                  Sanjiv},
-  title =	 {The DARPA Urban Challenge: Autonomous Vehicles in
-                  City Traffic},
+  author =	 {Buehler, Martin and Iagnemma, Karl and Singh, Sanjiv},
+  title =	 {The DARPA Urban Challenge: Autonomous Vehicles in City Traffic},
   year =	 2009,
   edition =	 {1st},
   publisher =	 {Springer Publishing Company, Incorporated},
 }
 ==================
 @inproceedings{Butler12eccv,
-  author =	 {Butler, Daniel J. and Wulff, Jonas and Stanley,
-                  Garrett B. and Black, Michael J.},
-  title =	 {A Naturalistic Open Source Movie for Optical Flow
-                  Evaluation},
+  author =	 {Butler, Daniel J. and Wulff, Jonas and Stanley, Garrett B. and Black, Michael J.},
+  title =	 {A Naturalistic Open Source Movie for Optical Flow Evaluation},
   booktitle =	 ECCV,
   pages =	 {611-625},
   ISBN =	 {978-3-642-33783-3},
@@ -307,19 +273,14 @@ pages={1-30},
 }
 ==================
 @inproceedings{Vija17arXiv,
-author    = {Sudheendra Vijayanarasimhan and
-               Susanna Ricco and
-               Cordelia Schmid and
-               Rahul Sukthankar and
-               Katerina Fragkiadaki},
+author    = {Sudheendra Vijayanarasimhan and Susanna Ricco and Cordelia Schmid and Rahul Sukthankar and Katerina Fragkiadaki},
 title     = {SfM-Net: Learning of Structure and Motion from Video},
 year      = {2017},
 booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Byravan17icra,
-  title =	 {Se3-nets: Learning rigid body motion using deep
-                  neural networks},
+  title =	 {Se3-nets: Learning rigid body motion using deep neural networks},
   author =	 {Byravan, Arunkumar and Fox, Dieter},
   booktitle =	 ICRA,
   pages =	 {173--180},
@@ -328,10 +289,8 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Campbell08eccv,
-  author =	 {Campbell, Neill D. F. and Vogiatzis, George and
-                  Hernández, Carlos and Cipolla, Roberto},
-  title =	 {Using Multiple Hypotheses to Improve Depth-Maps for
-                  Multi-View Stereo},
+  author =	 {Campbell, Neill D. F. and Vogiatzis, George and Hernández, Carlos and Cipolla, Roberto},
+  title =	 {Using Multiple Hypotheses to Improve Depth-Maps for Multi-View Stereo},
   booktitle =	 ECCV,
   pages =	 {766-779},
   year =	 2008,
@@ -339,26 +298,21 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Campbell08eccv,
-  author =	 {Campbell, Neill D. and Vogiatzis, George and
-                  Hern\'{a}ndez, Carlos and Cipolla, Roberto},
-  title =	 {Using Multiple Hypotheses to Improve Depth-Maps for
-                  Multi-View Stereo},
+  author =	 {Campbell, Neill D. and Vogiatzis, George and Hern\'{a}ndez, Carlos and Cipolla, Roberto},
+  title =	 {Using Multiple Hypotheses to Improve Depth-Maps for Multi-View Stereo},
   booktitle =	 ECCV,
   year =	 2008,
   isbn =	 {978-3-540-88681-5},
   location =	 {Marseille, France},
   pages =	 {766--779},
   numpages =	 14,
-  acmid =	 1478454,
   publisher =	 {Springer-Verlag},
   address =	 {Berlin, Heidelberg},
 }
 ==================
 @inproceedings{Carceroni01iccv,
   author =	 {Carceroni, R. L. and Kutalakos, K. N.},
-  title =	 {Multi-view scene capture by surfel sampling: from
-                  video streams to non-rigid 3D motion, shape and
-                  reflectance},
+  title =	 {Multi-view scene capture by surfel sampling: from video streams to non-rigid 3D motion, shape and reflectance},
   booktitle =	 ICCV,
   volume =	 2,
   pages =	 {60-67 vol.2},
@@ -368,8 +322,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 ==================
 @inproceedings{Cech11cvpr,
   author =	 {Cech, Jan and Sanchez-Riera, J. and Horaud, R.},
-  title =	 {Scene flow estimation by growing correspondence
-                  seeds},
+  title =	 {Scene flow estimation by growing correspondence seeds},
   booktitle =	 CVPR,
   pages =	 {3129-3136},
   ISBN =	 {1063-6919},
@@ -378,11 +331,9 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Chen13cvpr,
-  author =	 {Z. Chen and H. Jin and Z. Lin and S. Cohen and
-                  Y. Wu},
+  author =	 {Z. Chen and H. Jin and Z. Lin and S. Cohen and Y. Wu},
   booktitle =	 CVPR,
-  title =	 {Large Displacement Optical Flow from Nearest
-                  Neighbor Fields},
+  title =	 {Large Displacement Optical Flow from Nearest Neighbor Fields},
   year =	 2013,
   pages =	 {2443-2450},
   ISSN =	 {1063-6919},
@@ -390,8 +341,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @article{Costeira98ijcv,
-  title =	 {A Multi-body Factorization Method for Independently
-                  Moving Objects},
+  title =	 {A Multi-body Factorization Method for Independently Moving Objects},
   author =	 {Jo{\~a}o Costeira and Takeo Kanade},
   journal =	 IJCV,
   volume={29},
@@ -402,10 +352,8 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Courchay10accv,
-  author =	 {Courchay, Jérôme and Pons, Jean-Philippe and
-                  Monasse, Pascal and Keriven, Renaud},
-  title =	 {Dense and Accurate Spatio-temporal Multi-view
-                  Stereovision},
+  author =	 {Courchay, Jérôme and Pons, Jean-Philippe and Monasse, Pascal and Keriven, Renaud},
+  title =	 {Dense and Accurate Spatio-temporal Multi-view Stereovision},
   booktitle =	 ACCV,
   pages =	 {11-22},
   ISBN =	 {978-3-642-12304-7},
@@ -414,10 +362,8 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Dalal06eccv,
-  title =	 {Human detection using oriented histograms of flow
-                  and appearance},
-  author =	 {Dalal, Navneet and Triggs, Bill and Schmid,
-                  Cordelia},
+  title =	 {Human detection using oriented histograms of flow and appearance},
+  author =	 {Dalal, Navneet and Triggs, Bill and Schmid, Cordelia},
   booktitle =	 ECCV,
   pages =	 {428-441},
   year =	 2006,
@@ -425,8 +371,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 ==================
 @inproceedings{Devernay06cvpr,
   author =	 {Devernay, F. and Mateus, D. and Guilbert, M.},
-  title =	 {Multi-Camera Scene Flow by Tracking 3-D Points and
-                  Surfels},
+  title =	 {Multi-Camera Scene Flow by Tracking 3-D Points and Surfels},
   booktitle =	 CVPR,
   volume =	 2,
   pages =	 {2203-2212},
@@ -437,8 +382,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 ==================
 @inproceedings{Dewan16iros,
   title =	 {Rigid scene flow for 3D LiDAR scans},
-  author =	 {Dewan, Ayush and Caselitz, Tim and Tipaldi, Gian
-                  Diego and Burgard, Wolfram},
+  author =	 {Dewan, Ayush and Caselitz, Tim and Tipaldi, Gian Diego and Burgard, Wolfram},
   booktitle =	 IROS,
   pages =	 {1765--1770},
   year =	 2016,
@@ -446,11 +390,8 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Dosovitskiy15iccv,
-  author =	 {Dosovitskiy, A. and Fischer, P. and Ilg, E. and P,
-                  H. and xE and usser and Hazirbas, C. and Golkov,
-                  V. and Smagt, P. v. d. and Cremers, D. and Brox, T.},
-  title =	 {FlowNet: Learning Optical Flow with Convolutional
-                  Networks},
+  author =	 {Dosovitskiy, A. and Fischer, P. and Ilg, E. and P, H. and xE and usser and Hazirbas, C. and Golkov, V. and Smagt, P. v. d. and Cremers, D. and Brox, T.},
+  title =	 {FlowNet: Learning Optical Flow with Convolutional Networks},
   booktitle =	 ICCV,
   pages =	 {2758-2766},
   year =	 2015,
@@ -458,22 +399,15 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Dou16siggraph,
-  author =	 {Mingsong Dou and Sameh Khamis and Yury Degtyarev and
-                  Philip Davidson and Sean Fanello and Adarsh Kowdle
-                  and Sergio Orts Escolano and Christoph Rhemann and
-                  David Kim and Jonathan Taylor and Pushmeet Kohli and
-                  Vladimir Tankovich and Shahram Izadi},
-  title =	 {Fusion4D: Real-time Performance Capture of
-                  Challenging Scenes},
+  author =	 {Mingsong Dou and Sameh Khamis and Yury Degtyarev and Philip Davidson and Sean Fanello and Adarsh Kowdle and Sergio Orts Escolano and Christoph Rhemann and David Kim and Jonathan Taylor and Pushmeet Kohli and Vladimir Tankovich and Shahram Izadi},
+  title =	 {Fusion4D: Real-time Performance Capture of Challenging Scenes},
   booktitle =	 SIGGRAPH,
   year =	 2016
 }
 ==================
 @inproceedings{Ferstl14_3dv,
-  author =	 {Ferstl, D. and Reinbacher, C. and Riegler, G. and M,
-                  R. and x00Fc and ther and Bischof, H.},
-  title =	 {aTGV-SF: Dense Variational Scene Flow through
-                  Projective Warping and Higher Order Regularization},
+  author =	 {Ferstl, D. and Reinbacher, C. and Riegler, G. and M, R. and x00Fc and ther and Bischof, H.},
+  title =	 {aTGV-SF: Dense Variational Scene Flow through Projective Warping and Higher Order Regularization},
   booktitle =	 _3DV,
   volume =	 1,
   pages =	 {285-292},
@@ -483,10 +417,8 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 }
 ==================
 @inproceedings{Ferstl14bmvc,
-  author =	 {Ferstl, David and Riegler, Gernot and Ruether,
-                  Matthias and Bischof, Horst},
-  title =	 {CP-Census: A Novel Model for Dense Variational Scene
-                  Flow from RGB-D Data},
+  author =	 {Ferstl, David and Riegler, Gernot and Ruether, Matthias and Bischof, Horst},
+  title =	 {CP-Census: A Novel Model for Dense Variational Scene Flow from RGB-D Data},
   booktitle =	 BMVC,
   year =	 2014,
   type =	 {Conference Proceedings}
@@ -494,8 +426,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 ==================
 @article{Fleet90ijcv,
   author =	 {Fleet, David J. and Jepson, A. D.},
-  title =	 {Computation of component image velocity from local
-                  phase information},
+  title =	 {Computation of component image velocity from local phase information},
   journal =	 IJCV,
   volume =	 5,
   number =	 1,
@@ -504,11 +435,9 @@ booktitle = {arXiv preprint arXiv:1704.07804}
   type =	 {Journal Article}
 }
 ==================
-@inproceedings{Frank05dagm,
-  title =	 {6d-vision: Fusion of stereo and motion for robust
-                  environment perception},
-  author =	 {Franke, Uwe and Rabe, Clemens and Badino, Hern{\'a}n
-                  and Gehrig, Stefan},
+@inproceedings{Franke05dagm,
+  title =	 {6d-vision: Fusion of stereo and motion for robust environment perception},
+  author =	 {Franke, Uwe and Rabe, Clemens and Badino, Hern{\'a}n and Gehrig, Stefan},
   booktitle =	 {Dagm Conference on Pattern Recognition},
   pages =	 {216--223},
   year =	 2005,
@@ -527,8 +456,7 @@ booktitle = {arXiv preprint arXiv:1704.07804}
 ==================
 @inproceedings{Furukawa08cvpr,
   author =	 {Yasutaka, Furukawa and Ponce, J.},
-  title =	 {Dense 3D motion capture from synchronized video
-                  streams},
+  title =	 {Dense 3D motion capture from synchronized video streams},
   booktitle =	 CVPR,
   pages =	 {1-8},
   ISBN =	 {1063-6919},
@@ -568,10 +496,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Gall09cvpr,
-  author =	 {Gall, J. and Stoll, C. and Aguiar, E. de and
-                  Theobalt, C. and Rosenhahn, B. and Seidel, H. P.},
-  title =	 {Motion capture using joint skeleton tracking and
-                  surface estimation},
+  author =	 {Gall, J. and Stoll, C. and Aguiar, E. de and Theobalt, C. and Rosenhahn, B. and Seidel, H. P.},
+  title =	 {Motion capture using joint skeleton tracking and surface estimation},
   booktitle =	 CVPR,
   pages =	 {1746-1753},
   ISBN =	 {1063-6919},
@@ -580,10 +506,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Galliani15iccv,
-  title =	 {Massively parallel multiview stereopsis by surface
-                  normal diffusion},
-  author =	 {Galliani, Silvano and Lasinger, Katrin and
-                  Schindler, Konrad},
+  title =	 {Massively parallel multiview stereopsis by surface normal diffusion},
+  author =	 {Galliani, Silvano and Lasinger, Katrin and Schindler, Konrad},
   booktitle =	 ICCV,
   pages =	 {873--881},
   year =	 2015
@@ -591,8 +515,7 @@ month={Jan}
 ==================
 @inproceedings{Geiger12cvpr,
   author =	 {Geiger, A. and Lenz, P. and Urtasun, R.},
-  title =	 {Are we ready for autonomous driving? The KITTI
-                  vision benchmark suite},
+  title =	 {Are we ready for autonomous driving? The KITTI vision benchmark suite},
   booktitle =	 CVPR,
   pages =	 {3354-3361},
   ISBN =	 {1063-6919},
@@ -601,10 +524,8 @@ month={Jan}
 }
 ==================
 @article{Geiger14pami,
-  author =	 {Andreas Geiger and Martin Lauer and Christian Wojek
-                  and Christoph Stiller and Raquel Urtasun},
-  title =	 {3D Traffic Scene Understanding from Movable
-                  Platforms},
+  author =	 {Andreas Geiger and Martin Lauer and Christian Wojek and Christoph Stiller and Raquel Urtasun},
+  title =	 {3D Traffic Scene Understanding from Movable Platforms},
   journal =	 PAMI,
   year =	 2014
 }
@@ -612,8 +533,7 @@ month={Jan}
 @article{Ghuffar14icae,
   author =	 {Ghuffar, Sajid and Brosch, Nicole and Pfeifer,
                   Norbert and Gelautz, Margrit},
-  title =	 {Motion estimation and segmentation in depth and
-                  intensity videos},
+  title =	 {Motion estimation and segmentation in depth and intensity videos},
   journal =	 {Integrated Computer-Aided Engineering},
   volume =	 21,
   number =	 3,
@@ -625,8 +545,7 @@ month={Jan}
 ==================
 @article{Gong09cviu,
   author =	 {Gong, Minglun},
-  title =	 {Real-time joint disparity and disparity flow
-                  estimation on programmable graphics hardware},
+  title =	 {Real-time joint disparity and disparity flow estimation on programmable graphics hardware},
   journal =	 CVIU,
   volume =	 113,
   number =	 1,
@@ -637,10 +556,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Gotardo15iccv,
-  author =	 {Gotardo, P. F. U. and Simon, T. and Sheikh, Y. and
-                  Matthews, I.},
-  title =	 {Photogeometric Scene Flow for High-Detail Dynamic 3D
-                  Reconstruction},
+  author =	 {Gotardo, P. F. U. and Simon, T. and Sheikh, Y. and Matthews, I.},
+  title =	 {Photogeometric Scene Flow for High-Detail Dynamic 3D Reconstruction},
   booktitle =	 ICCV,
   pages =	 {846-854},
   year =	 2015,
@@ -649,8 +566,7 @@ month={Jan}
 ==================
 @inproceedings{Gottfried11isvc,
   title =	 {Computing range flow from multi-modal Kinect data},
-  author =	 {Gottfried, Jens-Malte and Fehr, Janis and Garbe,
-                  Christoph S},
+  author =	 {Gottfried, Jens-Malte and Fehr, Janis and Garbe, Christoph S},
   booktitle =	 {International Symposium on Visual Computing},
   pages =	 {758--767},
   year =	 2011,
@@ -659,8 +575,7 @@ month={Jan}
 ==================
 @article{Guillemaut11ijcv,
   author =	 {Guillemaut, Jean Yves and Hilton, Adrian},
-  title =	 {Joint Multi-Layer Segmentation and Reconstruction
-                  for Free-Viewpoint Video Applications},
+  title =	 {Joint Multi-Layer Segmentation and Reconstruction for Free-Viewpoint Video Applications},
   journal =	 IJCV,
   volume =	 93,
   number =	 1,
@@ -672,8 +587,7 @@ month={Jan}
 @inproceedings{Guney15cvpr,
   author =	 {F. Güney and A. Geiger},
   booktitle =	 CVPR,
-  title =	 {Displets: Resolving stereo ambiguities using object
-                  knowledge},
+  title =	 {Displets: Resolving stereo ambiguities using object knowledge},
   year =	 2015,
   pages =	 {4165-4175},
   ISSN =	 {1063-6919},
@@ -682,8 +596,7 @@ month={Jan}
 ==================
 @inproceedings{Hadfield11iccv,
   author =	 {Hadfield, S. and Bowden, R.},
-  title =	 {Kinecting the dots: Particle based scene flow from
-                  depth sensors},
+  title =	 {Kinecting the dots: Particle based scene flow from depth sensors},
   booktitle =	 ICCV,
   pages =	 {2290-2295},
   ISBN =	 {1550-5499},
@@ -693,8 +606,7 @@ month={Jan}
 ==================
 @inproceedings{Hadfield14bmvc,
   author =	 {Hadfield, Simon and Bowden, Richard},
-  title =	 {Scene Flow Estimation using Intelligent Cost
-                  Functions},
+  title =	 {Scene Flow Estimation using Intelligent Cost Functions},
   booktitle =	 BMVC,
   year =	 2014,
   type =	 {Conference Proceedings}
@@ -702,8 +614,7 @@ month={Jan}
 ==================
 @article{Hadfield14pami,
   author =	 {Hadfield, Simon and Bowden, Richard},
-  title =	 {Scene Particles: Unregularized Particle-Based Scene
-                  Flow Estimation},
+  title =	 {Scene Particles: Unregularized Particle-Based Scene Flow Estimation},
   journal =	 PAMI,
   volume =	 36,
   number =	 3,
@@ -714,10 +625,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Heise15iccv,
-  author =	 {Heise, Philipp and Jensen, Brian and Klose,
-                  Sebastian and Knoll, Alois},
-  title =	 {Variational PatchMatch MultiView Reconstruction and
-                  Refinement},
+  author =	 {Heise, Philipp and Jensen, Brian and Klose, Sebastian and Knoll, Alois},
+  title =	 {Variational PatchMatch MultiView Reconstruction and Refinement},
   booktitle =	 ICCV,
   pages =	 {882-890},
   year =	 2015,
@@ -726,8 +635,7 @@ month={Jan}
 ==================
 @inproceedings{Herbst13icra,
   author =	 {Herbst, E. and Ren, X. and Fox, D.},
-  title =	 {RGB-D flow: Dense 3-D motion estimation using color
-                  and depth},
+  title =	 {RGB-D flow: Dense 3-D motion estimation using color and depth},
   booktitle =	 ICRA,
   pages =	 {2276-2282},
   ISBN =	 {1050-4729},
@@ -748,8 +656,7 @@ month={Jan}
 ==================
 @article{Hirschmuller08pami,
   author =	 {Hirschmuller, Heiko},
-  title =	 {Stereo Processing by Semiglobal Matching and Mutual
-                  Information},
+  title =	 {Stereo Processing by Semiglobal Matching and Mutual Information},
   journal =	 PAMI,
   issue_date =	 {February 2008},
   volume =	 30,
@@ -759,7 +666,6 @@ month={Jan}
   issn =	 {0162-8828},
   pages =	 {328--341},
   numpages =	 14,
-  acmid =	 1340245,
   publisher =	 {IEEE Computer Society},
   address =	 {Washington, DC, USA},
 }
@@ -775,8 +681,8 @@ month={Jan}
   publisher =	 {Elsevier}
 }
 ==================
-@inproceedings{Hornecek14cvpr,
-  author =	 {M. Hornecek and Fitzgibbon, A. and Rother, C.},
+@inproceedings{Hornacek14cvpr,
+  author =	 {M. Hornacek and Fitzgibbon, A. and Rother, C.},
   title =	 {SphereFlow: 6 DoF Scene Flow from RGB-D Pairs},
   booktitle =	 CVPR,
   pages =	 {3526-3533},
@@ -786,8 +692,7 @@ month={Jan}
 ==================
 @inproceedings{Huguet07iccv,
   author =	 {Huguet, F. and Devernay, F.},
-  title =	 {A Variational Method for Scene Flow Estimation from
-                  Stereo Sequences},
+  title =	 {A Variational Method for Scene Flow Estimation from Stereo Sequences},
   booktitle =	 ICCV,
   pages =	 {1-7},
   ISBN =	 {1550-5499},
@@ -797,8 +702,7 @@ month={Jan}
 ==================
 @article{Hung13ijcv,
   author =	 {Hung, C. H. and Xu, L. and Jia, J. Y.},
-  title =	 {Consistent Binocular Depth and Scene Flow with
-                  Chained Temporal Profiles},
+  title =	 {Consistent Binocular Depth and Scene Flow with Chained Temporal Profiles},
   journal =	 IJCV,
   volume =	 102,
   number =	 {1-3},
@@ -809,18 +713,14 @@ month={Jan}
 }
 ==================
 @inproceedings{Innmann16eccv,
-  author =	 {Matthias Innmann and Michael Zollh{\"o}fer and
-                  Matthias Nie{\ss}ner and Christian Theobalt and Marc
-                  Stamminger},
+  author =	 {Matthias Innmann and Michael Zollh{\"o}fer and Matthias Nie{\ss}ner and Christian Theobalt and Marc Stamminger},
   booktitle =	 ECCV,
-  title =	 {VolumeDeform: Real-time Volumetric Non-rigid
-                  Reconstruction},
+  title =	 {VolumeDeform: Real-time Volumetric Non-rigid Reconstruction},
   year =	 2016
 }
 ==================
 @inproceedings{Isard06accv,
-  title =	 {Dense motion and disparity estimation via loopy
-                  belief propagation},
+  title =	 {Dense motion and disparity estimation via loopy belief propagation},
   author =	 {Isard, Michael and MacCormick, John},
   booktitle =	 ACCV,
   pages =	 {32--41},
@@ -829,10 +729,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Jaesik12eccv,
-  author =	 {Park, Jaesik and Oh, Tae Hyun and Jung, Jiyoung and
-                  Tai, Yu-Wing and Kweon, In So},
-  title =	 {A tensor voting approach for multi-view 3D scene
-                  flow estimation and refinement},
+  author =	 {Park, Jaesik and Oh, Tae Hyun and Jung, Jiyoung and Tai, Yu-Wing and Kweon, In So},
+  title =	 {A tensor voting approach for multi-view 3D scene flow estimation and refinement},
   booktitle =	 ECCV,
   volume =	 {7575 LNCS},
   pages =	 {288-302},
@@ -842,10 +740,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Jaimez15_3dv,
-  author =	 {Jaimez, M. and Souiai, M. and St, J. and x00Fc and
-                  ckler and Gonzalez-Jimenez, J. and Cremers, D.},
-  title =	 {Motion Cooperation: Smooth Piece-wise Rigid Scene
-                  Flow from RGB-D Images},
+  author =	 {Jaimez, M. and Souiai, M. and St, J. and x00Fc and ckler and Gonzalez-Jimenez, J. and Cremers, D.},
+  title =	 {Motion Cooperation: Smooth Piece-wise Rigid Scene Flow from RGB-D Images},
   booktitle =	 _3DV,
   pages =	 {64-72},
   year =	 2015,
@@ -853,10 +749,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Jaimez15icra,
-  author =	 {Jaimez, M. and Souiai, M. and Gonzalez-Jimenez,
-                  J. and Cremers, D.},
-  title =	 {A primal-dual framework for real-time dense RGB-D
-                  scene flow},
+  author =	 {Jaimez, M. and Souiai, M. and Gonzalez-Jimenez, J. and Cremers, D.},
+  title =	 {A primal-dual framework for real-time dense RGB-D scene flow},
   booktitle =	 ICRA,
   pages =	 {98-104},
   ISBN =	 {1050-4729},
@@ -865,19 +759,15 @@ month={Jan}
 }
 ==================
 @inproceedings{Jaimez17icra,
-  author =	 {M. Jaimez and C. Kerl and J. Gonzalez-Jimenez and
-                  D. Cremers},
-  title =	 {Fast Odometry and Scene Flow from RGB-D Cameras
-                  based on Geometric Clustering},
+  author =	 {M. Jaimez and C. Kerl and J. Gonzalez-Jimenez and D. Cremers},
+  title =	 {Fast Odometry and Scene Flow from RGB-D Cameras based on Geometric Clustering},
   booktitle =	 ICRA,
   year =	 2017
 }
 ==================
 @article{Jancosek14isrn,
   author =	 {Jancosek, M and Pajdla, T},
-  title =	 {Exploiting Visibility Information in Surface
-                  Reconstruction to Preserve Weakly Supported
-                  Surfaces},
+  title =	 {Exploiting Visibility Information in Surface Reconstruction to Preserve Weakly Supported Surfaces},
   journal =	 {International Scholarly Research Notices},
   volume =	 2014,
   pages =	 {1-20},
@@ -886,8 +776,7 @@ month={Jan}
 }
 ==================
 @inproceedings{Jensen14cvpr,
-  author =	 {R. Jensen and A. Dahl and G. Vogiatzis and E. Tola
-                  and H. Aanæs},
+  author =	 {R. Jensen and A. Dahl and G. Vogiatzis and E. Tola and H. Aanæs},
   booktitle =	 CVPR,
   title =	 {Large Scale Multi-view Stereopsis Evaluation},
   year =	 2014,
@@ -899,8 +788,7 @@ month={Jan}
 @inproceedings{Jith14icassp,
   author =	 {O. U. N. Jith and S. A. Ramakanth and R. V. Babu},
   booktitle =	 ICASSP,
-  title =	 {Optical flow estimation using Approximate Nearest
-                  Neighbor Field fusion},
+  title =	 {Optical flow estimation using Approximate Nearest Neighbor Field fusion},
   year =	 2014,
   pages =	 {673-6577},
   ISSN =	 {1520-6149},
@@ -908,10 +796,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Katy,
-  author =	 {Gall, J. and Stoll, C. and Aguiar, E. de and
-                  Theobalt, C. and Rosenhahn, B. and Seidel, H. P.},
-  title =	 {Motion capture using joint skeleton tracking and
-                  surface estimation},
+  author =	 {Gall, J. and Stoll, C. and Aguiar, E. de and Theobalt, C. and Rosenhahn, B. and Seidel, H. P.},
+  title =	 {Motion capture using joint skeleton tracking and surface estimation},
   booktitle =	 {IEEE Conference on Computer Vision and Pattern
                   Recognition (CVPR)},
   pages =	 {1746-1753},
@@ -921,11 +807,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Keller13_3dv,
-  author =	 {Keller, Maik and Lefloch, Damien and Lambers, Martin
-                  and Izadi, Shahram and Weyrich, Tim and Kolb,
-                  Andreas},
-  title =	 {Real-Time 3D Reconstruction in Dynamic Scenes Using
-                  Point-Based Fusion},
+  author =	 {Keller, Maik and Lefloch, Damien and Lambers, Martin and Izadi, Shahram and Weyrich, Tim and Kolb, Andreas},
+  title =	 {Real-Time 3D Reconstruction in Dynamic Scenes Using Point-Based Fusion},
   booktitle =	 _3DV,
   year =	 2013,
   keywords =	 {3D cameras and sensors, 3D shape reconstruction,
@@ -934,8 +817,7 @@ month={Jan}
 ==================
 @article{Komodakis07pami,
   author =	 {Komodakis, N. and Tziritas, G.},
-  title =	 {Approximate Labeling via Graph Cuts Based on Linear
-                  Programming},
+  title =	 {Approximate Labeling via Graph Cuts Based on Linear Programming},
   journal =	 PAMI,
   volume =	 29,
   number =	 8,
@@ -946,18 +828,15 @@ month={Jan}
 }
 ==================
 @article{Kostrikov14,
-  author =	 {Kostrikov, Ilya and Horbert, Esther and Leibe,
-                  Bastian},
-  title =	 {Probabilistic Labeling Cost for High-Accuracy
-                  Multi-view Reconstruction},
+  author =	 {Kostrikov, Ilya and Horbert, Esther and Leibe, Bastian},
+  title =	 {Probabilistic Labeling Cost for High-Accuracy Multi-view Reconstruction},
   pages =	 {1534-1541},
   year =	 2014,
   type =	 {Journal Article}
 }
 ==================
 @inproceedings{Krizhevsky12nips,
-  Author =	 {Alex Krizhevsky and Ilya Sutskever and Geoffrey
-                  E. Hinton},
+  Author =	 {Alex Krizhevsky and Ilya Sutskever and Geoffrey E. Hinton},
   Booktitle =	 {Advances in Neural Information Processing Systems},
   Title =	 {ImageNet Classification with Deep Convolutional
                   Neural Networks},
@@ -969,8 +848,7 @@ month={Jan}
 ==================
 @inproceedings{Laptev08cvpr,
   title =	 {Learning realistic human actions from movies},
-  author =	 {Laptev, I. and Marszalek, M. and Schmid, C. and
-                  Rozenfeld, B.},
+  author =	 {Laptev, I. and Marszalek, M. and Schmid, C. and Rozenfeld, B.},
   booktitle =	 CVPR,
   organization = {IEEE},
   pages =	 {1-8},
@@ -979,11 +857,9 @@ month={Jan}
 ==================
 @article{LeCun89nc,
   author =	 {Y. LeCun and B. Boser and J. S. Denker and
-                  D. Henderson and R. E. Howard and W. Hubbard and
-                  L. D. Jackel},
+                  D. Henderson and R. E. Howard and W. Hubbard and L. D. Jackel},
   journal =	 {Neural Computation},
-  title =	 {Backpropagation Applied to Handwritten Zip Code
-                  Recognition},
+  title =	 {Backpropagation Applied to Handwritten Zip Code Recognition},
   year =	 1989,
   volume =	 1,
   number =	 4,
@@ -993,10 +869,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Lempitsky08cvpr,
-  title =	 {Fusionflow: Discrete-continuous optimization for
-                  optical flow estimation},
-  author =	 {Lempitsky, Victor and Roth, Stefan and Rother,
-                  Carsten},
+  title =	 {Fusionflow: Discrete-continuous optimization for optical flow estimation},
+  author =	 {Lempitsky, Victor and Roth, Stefan and Rother, Carsten},
   booktitle =	 CVPR,
   pages =	 {1--8},
   year =	 2008,
@@ -1004,8 +878,7 @@ month={Jan}
 }
 ==================
 @inproceedings{Letouzey11bmvc,
-  author =	 {Letouzey, Antoine and Petit, Benjamin and Boyer,
-                  Edmond},
+  author =	 {Letouzey, Antoine and Petit, Benjamin and Boyer, Edmond},
   title =	 {Scene Flow from Depth and Color Images},
   booktitle =	 BMVC,
   publisher =	 {BMVA Press},
@@ -1016,8 +889,7 @@ month={Jan}
 ==================
 @inproceedings{Li05wacv,
   author =	 {Li, R. and Sclaroff, S.},
-  title =	 {Multi-Scale 3D Scene Flow from Binocular Stereo
-                  Sequences},
+  title =	 {Multi-Scale 3D Scene Flow from Binocular Stereo Sequences},
   booktitle =	 WACV,
   volume =	 2,
   pages =	 {147-153},
@@ -1027,8 +899,7 @@ month={Jan}
 ==================
 @article{Li08cviu,
   author =	 {Li, Rui and Sclaroff, Stan},
-  title =	 {Multi-scale 3D scene flow from binocular stereo
-                  sequences},
+  title =	 {Multi-scale 3D scene flow from binocular stereo sequences},
   journal =	 CVIU,
   volume =	 110,
   number =	 1,
@@ -1051,8 +922,7 @@ month={Jan}
 @article{Li15ip,
   author =	 {Li, Z and Wang, K and Zuo, W and Deyu, M and Zhang,
                   L},
-  title =	 {Detail-preserving and Content-aware Variational
-                  Multi-view Stereo Reconstruction},
+  title =	 {Detail-preserving and Content-aware Variational Multi-view Stereo Reconstruction},
   journal =	 IP,
   volume =	 25,
   number =	 2,
@@ -1062,20 +932,16 @@ month={Jan}
 }
 ==================
 @inproceedings{Li16cvpr,
-  author =	 {Li, Ang and Chen, Dapeng and Liu, Yuanliu and Yuan,
-                  Zejian},
-  title =	 {Coordinating Multiple Disparity Proposals for Stereo
-                  Computation},
+  author =	 {Li, Ang and Chen, Dapeng and Liu, Yuanliu and Yuan, Zejian},
+  title =	 {Coordinating Multiple Disparity Proposals for Stereo Computation},
   booktitle =	 CVPR,
   month =	 {June},
   year =	 2016
 }
 ==================
 @inproceedings{Li16eccv,
-  title =	 {Efficient Multi-view Surface Refinement with
-                  Adaptive Resolution Control},
-  author =	 {Li, Shiwei and Siu, Sing Yu and Fang, Tian and Quan,
-                  Long},
+  title =	 {Efficient Multi-view Surface Refinement with Adaptive Resolution Control},
+  author =	 {Li, Shiwei and Siu, Sing Yu and Fang, Tian and Quan, Long},
   booktitle =	 ECCV,
   pages =	 {349--364},
   year =	 2016,
@@ -1084,8 +950,7 @@ month={Jan}
 ==================
 @inproceedings{Liu09bmvc,
   author =	 {Liu, Fang and Philomin, Vasanth},
-  title =	 {Disparity Estimation in Stereo Sequences using Scene
-                  Flow},
+  title =	 {Disparity Estimation in Stereo Sequences using Scene Flow},
   booktitle =	 BMVC,
   year =	 2009,
   volume =	 1,
@@ -1095,8 +960,7 @@ month={Jan}
 ==================
 @inproceedings{Lucas81ijcai,
   author =	 {Lucas, Bruce D and Kanade, Takeo},
-  title =	 {An iterative image registration technique with an
-                  application to stereo vision},
+  title =	 {An iterative image registration technique with an application to stereo vision},
   booktitle =	 IJCAI,
   volume =	 81,
   pages =	 {674-679},
@@ -1114,8 +978,7 @@ month={Jan}
 }
 ==================
 @inproceedings{Luo16cvpr,
-  author =	 {Luo, Wenjie and Schwing, Alexander G. and Urtasun,
-                  Raquel},
+  author =	 {Luo, Wenjie and Schwing, Alexander G. and Urtasun, Raquel},
   title =	 {Efficient Deep Learning for Stereo Matching},
   booktitle =	 CVPR,
   month =	 {June},
@@ -1124,11 +987,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Lv16eccv,
-  title =	 {A Continuous Optimization Approach for Efficient and
-                  Accurate Scene Flow},
-  author =	 {Lv, Zhaoyang and Beall, Chris and Alcantarilla,
-                  Pablo F and Li, Fuxin and Kira, Zsolt and Dellaert,
-                  Frank},
+  title =	 {A Continuous Optimization Approach for Efficient and Accurate Scene Flow},
+  author =	 {Lv, Zhaoyang and Beall, Chris and Alcantarilla, Pablo F and Li, Fuxin and Kira, Zsolt and Dellaert, Frank},
   booktitle =	 ECCV,
   pages =	 {757--773},
   year =	 2016,
@@ -1136,11 +996,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Mayer16cvpr,
-  title =	 {A large dataset to train convolutional networks for
-                  disparity, optical flow, and scene flow estimation},
-  author =	 {Mayer, Nikolaus and Ilg, Eddy and Hausser, Philip
-                  and Fischer, Philipp and Cremers, Daniel and
-                  Dosovitskiy, Alexey and Brox, Thomas},
+  title =	 {A large dataset to train convolutional networks for disparity, optical flow, and scene flow estimation},
+  author =	 {Mayer, Nikolaus and Ilg, Eddy and Hausser, Philip and Fischer, Philipp and Cremers, Daniel and Dosovitskiy, Alexey and Brox, Thomas},
   booktitle =	 CVPR,
   pages =	 {4040--4048},
   year =	 2016
@@ -1157,8 +1014,7 @@ month={Jan}
 ==================
 @inproceedings{Min06icpr,
   author =	 {Dongbo, Min and Kwanghoon, Sohn},
-  title =	 {Edge-preserving Simultaneous Joint Motion-Disparity
-                  Estimation},
+  title =	 {Edge-preserving Simultaneous Joint Motion-Disparity Estimation},
   booktitle =	 ICPR,
   volume =	 2,
   pages =	 {74-77},
@@ -1171,9 +1027,6 @@ month={Jan}
   author =	 {Mordohai, Philippos},
   title =	 {On the evaluation of scene flow estimation},
   booktitle =	 ECCV,
-  series =	 {Lecture Notes in Computer Science (including
-                  subseries Lecture Notes in Artificial Intelligence
-                  and Lecture Notes in Bioinformatics)},
   publisher =	 {Springer Verlag},
   volume =	 {7584 LNCS},
   pages =	 {148-157},
@@ -1183,9 +1036,7 @@ month={Jan}
 }
 ==================
 @article{Nagel86pami,
-  title =	 {An Investigation of Smoothness Constraints for the
-                  Estimation of Displacement Vector Fields from Image
-                  Sequences},
+  title =	 {An Investigation of Smoothness Constraints for the Estimation of Displacement Vector Fields from Image Sequences},
   author =	 {Nagel, Hans Hellmut and Enkelmann, Wilfried},
   journal =	 PAMI,
   volume =	 8,
@@ -1196,8 +1047,7 @@ month={Jan}
 ==================
 @inproceedings{Neumann01smbv,
   author =	 {Neumann, J. and Aloimonos, Y.},
-  title =	 {Spatio-temporal stereo using multi-resolution
-                  subdivision surfaces},
+  title =	 {Spatio-temporal stereo using multi-resolution subdivision surfaces},
   booktitle =	 {Stereo and Multi-Baseline Vision (SMBV)},
   pages =	 {103-108},
   year =	 2001,
@@ -1206,8 +1056,7 @@ month={Jan}
 ==================
 @article{Neumann02ijcv,
   author =	 {Neumann, Jan and Aloimonos, Yiannis},
-  title =	 {Spatio-Temporal Stereo Using Multi-Resolution
-                  Subdivision Surfaces},
+  title =	 {Spatio-Temporal Stereo Using Multi-Resolution Subdivision Surfaces},
   journal =	 IJCV,
   volume =	 47,
   number =	 1,
@@ -1218,10 +1067,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Newcombe15cvpr,
-  author =	 {Newcombe, Richard A. and Fox, Dieter and Seitz,
-                  Steven M.},
-  title =	 {DynamicFusion: Reconstruction and Tracking of
-                  Non-Rigid Scenes in Real-Time},
+  author =	 {Newcombe, Richard A. and Fox, Dieter and Seitz, Steven M.},
+  title =	 {DynamicFusion: Reconstruction and Tracking of Non-Rigid Scenes in Real-Time},
   booktitle =	 CVPR,
   month =	 {June},
   year =	 2015
@@ -1237,10 +1084,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Pons03iccv,
-  author =	 {Pons, J. P. and Keriven, R. and Faugeras, O. and
-                  Hermosillo, G.},
-  title =	 {Variational stereovision and 3D scene flow
-                  estimation with statistical similarity measures},
+  author =	 {Pons, J. P. and Keriven, R. and Faugeras, O. and Hermosillo, G.},
+  title =	 {Variational stereovision and 3D scene flow estimation with statistical similarity measures},
   booktitle =	 ICCV,
   pages =	 {597-602 vol.1},
   year =	 2003,
@@ -1249,8 +1094,7 @@ month={Jan}
 ==================
 @inproceedings{Pons05cvpr,
   author =	 {Pons, J. P. and Keriven, R. and Faugeras, O.},
-  title =	 {Modelling dynamic scenes by registering multi-view
-                  image sequences},
+  title =	 {Modelling dynamic scenes by registering multi-view image sequences},
   booktitle =	 CVPR,
   volume =	 2,
   pages =	 {822-827 vol. 2},
@@ -1261,8 +1105,7 @@ month={Jan}
 ==================
 @article{Pons07ijcv,
   author =	 {Pons, J. P. and Keriven, R. and Faugeras, O.},
-  title =	 {Multi-view stereo reconstruction and scene flow
-                  estimation with a global image-based matching score},
+  title =	 {Multi-view stereo reconstruction and scene flow estimation with a global image-based matching score},
   journal =	 IJCV,
   volume =	 72,
   number =	 2,
@@ -1273,18 +1116,15 @@ month={Jan}
 }
 ==================
 @inproceedings{Popham10bmvc,
-  author =	 {Popham, Thomas and Bhalerao, Abhir and Wilson,
-                  Roland},
-  title =	 {Multi-Frame Scene-Flow Estimation Using a Patch
-                  Model and Smooth Motion Prior},
+  author =	 {Popham, Thomas and Bhalerao, Abhir and Wilson, Roland},
+  title =	 {Multi-Frame Scene-Flow Estimation Using a Patch Model and Smooth Motion Prior},
   booktitle =	 BMVC,
   year =	 2010,
   type =	 {Conference Proceedings}
 }
 ==================
 @article{Popham14cviu,
-  author =	 {Popham, Thomas and Bhalerao, Abhir and Wilson,
-                  Roland},
+  author =	 {Popham, Thomas and Bhalerao, Abhir and Wilson, Roland},
   title =	 {Estimating scene flow using an interconnected patch
                   surface model with belief-propagation inference},
   journal =	 CVIU,
@@ -1305,10 +1145,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Quiroga14eccv,
-  author =	 {Quiroga, Julian and Brox, Thomas and Devernay,
-                  Frederic and Crowley, James},
-  title =	 {Dense semi-rigid scene flow estimation from RGBD
-                  images},
+  author =	 {Quiroga, Julian and Brox, Thomas and Devernay, Frederic and Crowley, James},
+  title =	 {Dense semi-rigid scene flow estimation from RGBD images},
   booktitle =	 ECCV,
   volume =	 {8695 LNCS},
   pages =	 {567-582},
@@ -1318,10 +1156,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Rabe10eccv,
-  author =	 {Rabe, Clemens and Muller, Thomas and Wedel, Andreas
-                  and Franke, Uwe},
-  title =	 {Dense, robust, and accurate motion field estimation
-                  from stereo image sequences in real-time},
+  author =	 {Rabe, Clemens and Muller, Thomas and Wedel, Andreas and Franke, Uwe},
+  title =	 {Dense, robust, and accurate motion field estimation from stereo image sequences in real-time},
   booktitle =	 ECCV,
   publisher =	 {Springer-Verlag},
   pages =	 {582-595},
@@ -1330,19 +1166,15 @@ month={Jan}
 }
 ==================
 @article{Ren17arXiv,
-  title =	 {Cascaded Scene Flow Prediction using Semantic
-                  Segmentation},
-  author =	 {Ren, Zhile and Sun, Deqing and Kautz, Jan and
-                  Sudderth, Erik B},
+  title =	 {Cascaded Scene Flow Prediction using Semantic Segmentation},
+  author =	 {Ren, Zhile and Sun, Deqing and Kautz, Jan and Sudderth, Erik B},
   journal =	 {arXiv preprint arXiv:1707.08313},
   year =	 2017
 }
 ==================
 @inproceedings{Richardt16_3dv,
-  title =	 {Dense wide-baseline scene flow from two handheld
-                  video cameras},
-  author =	 {Richardt, Christian and Kim, Hyeongwoo and
-                  Valgaerts, Levi and Theobalt, Christian},
+  title =	 {Dense wide-baseline scene flow from two handheld video cameras},
+  author =	 {Richardt, Christian and Kim, Hyeongwoo and Valgaerts, Levi and Theobalt, Christian},
   booktitle =	 _3DV,
   pages =	 {276--285},
   year =	 2016,
@@ -1351,16 +1183,14 @@ month={Jan}
 ==================
 @inproceedings{Richter17iccv,
   title =	 {Playing for Benchmarks},
-  author =	 {Stephan R. Richter and Zeeshan Hayder and Vladlen
-                  Koltun},
+  author =	 {Stephan R. Richter and Zeeshan Hayder and Vladlen Koltun},
   booktitle =	 {International Conference on Computer Vision (ICCV)},
   year =	 2017,
 }
 ==================
 @inproceedings{Rother07cvpr,
   title =	 {Optimizing binary MRFs via extended roof duality},
-  author =	 {Rother, Carsten and Kolmogorov, Vladimir and
-                  Lempitsky, Victor and Szummer, Martin},
+  author =	 {Rother, Carsten and Kolmogorov, Vladimir and Lempitsky, Victor and Szummer, Martin},
   booktitle =	 CVPR,
   pages =	 {1--8},
   year =	 2007,
@@ -1369,20 +1199,16 @@ month={Jan}
 ==================
 @inproceedings{Ruttle09imvip,
   author =	 {Ruttle, J. and Manzke, M. and Dahyot, R.},
-  title =	 {Estimating 3D Scene Flow from Multiple 2D Optical
-                  Flows},
-  booktitle =	 {International Machine Vision and Image Processing
-                  Conference (IMVIP)},
+  title =	 {Estimating 3D Scene Flow from Multiple 2D Optical Flows},
+  booktitle =	 {International Machine Vision and Image Processing Conference (IMVIP)},
   pages =	 {1-6},
   year =	 2009,
   type =	 {Conference Proceedings}
 }
 ==================
 @article{Sarbolandi15cviu,
-  title =	 {Kinect range sensing: Structured-light versus
-                  time-of-flight kinect},
-  author =	 {Sarbolandi, Hamed and Lefloch, Damien and Kolb,
-                  Andreas},
+  title =	 {Kinect range sensing: Structured-light versus time-of-flight kinect},
+  author =	 {Sarbolandi, Hamed and Lefloch, Damien and Kolb, Andreas},
   journal =	 CVIU,
   volume =	 139,
   pages =	 {1--20},
@@ -1391,11 +1217,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Savinov16cvpr,
-  author =	 {Savinov, Nikolay and Haene, Christian and Ladicky,
-                  Lubor and Pollefeys, Marc},
-  title =	 {Semantic 3D Reconstruction with Continuous
-                  Regularization and Ray Potentials Using a Visibility
-                  Consistency Constraint},
+  author =	 {Savinov, Nikolay and Haene, Christian and Ladicky, Lubor and Pollefeys, Marc},
+  title =	 {Semantic 3D Reconstruction with Continuous Regularization and Ray Potentials Using a Visibility Consistency Constraint},
   booktitle =	 CVPR,
   year =	 2016,
   type =	 {Conference Proceedings}
@@ -1403,18 +1226,15 @@ month={Jan}
 ==================
 @inproceedings{Scharstein01smbv,
   author =	 {D. Scharstein and R. Szeliski and R. Zabih},
-  booktitle =	 {IEEE Workshop on Stereo and Multi-Baseline Vision
-                  (SMBV)},
-  title =	 {A taxonomy and evaluation of dense two-frame stereo
-                  correspondence algorithms},
+  booktitle =	 {IEEE Workshop on Stereo and Multi-Baseline Vision (SMBV)},
+  title =	 {A taxonomy and evaluation of dense two-frame stereo correspondence algorithms},
   year =	 2001,
   pages =	 {131-140},
 }
 ==================
 @inproceedings{Scharstein03cvpr,
   author =	 {Scharstein, D. and Szeliski, R.},
-  title =	 {High-accuracy stereo depth maps using structured
-                  light},
+  title =	 {High-accuracy stereo depth maps using structured light},
   booktitle =	 CVPR,
   volume =	 1,
   pages =	 {195-202},
@@ -1424,18 +1244,15 @@ month={Jan}
 }
 ==================
 @inproceedings{Scharwachter14eccv,
-  author =	 {Scharw{\"a}chter, Timo and Enzweiler, Markus and
-                  Franke, Uwe and Roth, Stefan},
-  title =	 {Stixmantics: A Medium-Level Model for Real-Time
-                  Semantic Scene Understanding},
+  author =	 {Scharw{\"a}chter, Timo and Enzweiler, Markus and Franke, Uwe and Roth, Stefan},
+  title =	 {Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding},
   booktitle =	 ECCV,
   year =	 2014
 }
 ==================
 @article{Schuchert10pami,
   author =	 {Schuchert, T. and Aach, T. and Scharr, H.},
-  title =	 {Range Flow in Varying Illumination: Algorithms and
-                  Comparisons},
+  title =	 {Range Flow in Varying Illumination: Algorithms and Comparisons},
   journal =	 PAMI,
   volume =	 32,
   number =	 9,
@@ -1446,11 +1263,9 @@ month={Jan}
 }
 ==================
 @inproceedings{Seitz06cvpr,
-  author =	 {S. M. Seitz and B. Curless and J. Diebel and
-                  D. Scharstein and R. Szeliski},
+  author =	 {S. M. Seitz and B. Curless and J. Diebel and D. Scharstein and R. Szeliski},
   booktitle =	 CVPR,
-  title =	 {A Comparison and Evaluation of Multi-View Stereo
-                  Reconstruction Algorithms},
+  title =	 {A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms},
   year =	 2006,
   volume =	 1,
   pages =	 {519-528},
@@ -1461,9 +1276,7 @@ month={Jan}
 @inproceedings{Shashua04iv,
   author =	 {A. Shashua and Y. Gdalyahu and G. Hayun},
   booktitle =	 IV,
-  title =	 {Pedestrian detection for driving assistance systems:
-                  single-frame classification and system level
-                  performance},
+  title =	 {Pedestrian detection for driving assistance systems: single-frame classification and system level performance},
   year =	 2004,
   pages =	 {1-6},
   month =	 {June}
@@ -1471,8 +1284,7 @@ month={Jan}
 ==================
 @article{Sizintsev12pami,
   author =	 {Sizintsev, M. and Wildes, R. P.},
-  title =	 {Spatiotemporal Stereo and Scene Flow via Stequel
-                  Matching},
+  title =	 {Spatiotemporal Stereo and Scene Flow via Stequel Matching},
   journal =	 PAMI,
   volume =	 34,
   number =	 6,
@@ -1505,8 +1317,7 @@ month={Jan}
 }
 ==================
 @inproceedings{Srinivasan15iccv,
-  author =	 {Srinivasan, P. P. and Tao, M. W. and Ng, R. and
-                  Ramamoorthi, R.},
+  author =	 {Srinivasan, P. P. and Tao, M. W. and Ng, R. and Ramamoorthi, R.},
   title =	 {Oriented Light-Field Windows for Scene Flow},
   booktitle =	 ICCV,
   pages =	 {3496-3504},
@@ -1515,23 +1326,19 @@ month={Jan}
 }
 ==================
 @inproceedings{Stoll13accv,
-  author =	 {Stoll, Michael and Volz, Sebastian and Bruhn,
-                  Andr{\'e}s},
-  title =	 {Adaptive Integration of Feature Matches into
-                  Variational Optical Flow Methods},
+  author =	 {Stoll, Michael and Volz, Sebastian and Bruhn, Andr{\'e}s},
+  title =	 {Adaptive Integration of Feature Matches into Variational Optical Flow Methods},
   booktitle =	 ACCV,
   year =	 2013,
   isbn =	 {978-3-642-37430-2},
   pages =	 {1--14},
   numpages =	 14,
-  acmid =	 2482050,
 }
 ==================
 @inproceedings{Stoll13icip,
   author =	 {M. Stoll and S. Volz and A. Bruhn},
   booktitle =	 ICIP,
-  title =	 {Joint trilateral filtering for multiframe optical
-                  flow},
+  title =	 {Joint trilateral filtering for multiframe optical flow},
   year =	 2013,
   pages =	 {3845-3849},
   ISSN =	 {1522-4880},
@@ -1539,11 +1346,9 @@ month={Jan}
 }
 ==================
 @inproceedings{Strecha08cvpr,
-  author =	 {C. Strecha and W. von Hansen and L. Van Gool and
-                  P. Fua and U. Thoennessen},
+  author =	 {C. Strecha and W. von Hansen and L. Van Gool and P. Fua and U. Thoennessen},
   booktitle =	 CVPR,
-  title =	 {On benchmarking camera calibration and multi-view
-                  stereo for high resolution imagery},
+  title =	 {On benchmarking camera calibration and multi-view stereo for high resolution imagery},
   year =	 2008,
   pages =	 {1-8},
   ISSN =	 {1063-6919},
@@ -1552,8 +1357,7 @@ month={Jan}
 ==================
 @inproceedings{Sun10cvpr,
   author =	 {Deqing, Sun and Roth, S. and Black, M. J.},
-  title =	 {Secrets of optical flow estimation and their
-                  principles},
+  title =	 {Secrets of optical flow estimation and their principles},
   booktitle =	 CVPR,
   pages =	 {2432-2439},
   ISBN =	 {1063-6919},
@@ -1562,10 +1366,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Sun10nips,
-  title =	 {Layered image motion with explicit occlusions,
-                  temporal consistency, and depth ordering},
-  author =	 {Sun, Deqing and Sudderth, Erik B. and Black, Michael
-                  J.},
+  title =	 {Layered image motion with explicit occlusions, temporal consistency, and depth ordering},
+  author =	 {Sun, Deqing and Sudderth, Erik B. and Black, Michael J.},
   booktitle =	 NIPS,
   pages =	 {2226-2234},
   year =	 2010
@@ -1573,8 +1375,7 @@ month={Jan}
 ==================
 @inproceedings{Sun15cvpr,
   title =	 {Layered RGBD scene flow estimation},
-  author =	 {Sun, Deqing and Sudderth, Erik B and Pfister,
-                  Hanspeter},
+  author =	 {Sun, Deqing and Sudderth, Erik B and Pfister, Hanspeter},
   booktitle =	 CVPR,
   pages =	 {548--556},
   year =	 2015,
@@ -1582,10 +1383,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Taniai17cvpr,
-  author =	 {Taniai, Tatsunori and Sinha, Sudipta and Sato,
-                  Yoichi},
-  title =	 {Fast Multi-frame Stereo Scene Flow with Motion
-                  Segmentation},
+  author =	 {Taniai, Tatsunori and Sinha, Sudipta and Sato, Yoichi},
+  title =	 {Fast Multi-frame Stereo Scene Flow with Motion Segmentation},
   booktitle =	 CVPR,
   year =	 2017,
   month =	 {March},
@@ -1593,10 +1392,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Tao13iccv,
-  title =	 {Depth from combining defocus and correspondence
-                  using light-field cameras},
-  author =	 {Tao, Michael W and Hadap, Sunil and Malik, Jitendra
-                  and Ramamoorthi, Ravi},
+  title =	 {Depth from combining defocus and correspondence using light-field cameras},
+  author =	 {Tao, Michael W and Hadap, Sunil and Malik, Jitendra and Ramamoorthi, Ravi},
   booktitle =	 ICCV,
   pages =	 {673--680},
   year =	 2013
@@ -1612,10 +1409,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Ushani17icra,
-  title =	 {A learning approach for real-time temporal scene
-                  flow estimation from LIDAR data},
-  author =	 {Ushani, Arash K and Wolcott, Ryan W and Walls,
-                  Jeffrey M and Eustice, Ryan M},
+  title =	 {A learning approach for real-time temporal scene flow estimation from LIDAR data},
+  author =	 {Ushani, Arash K and Wolcott, Ryan W and Walls, Jeffrey M and Eustice, Ryan M},
   booktitle =	 ICRA,
   year =	 2017,
   organization = {IEEE},
@@ -1623,11 +1418,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Valgaerts10eccv,
-  author =	 {Valgaerts, Levi and Bruhn, Andres and Zimmer,
-                  Henning and Weickert, Joachim and Stoll, Carsten and
-                  Theobalt, Christian},
-  title =	 {Joint estimation of motion, structure and geometry
-                  from stereo sequences},
+  author =	 {Valgaerts, Levi and Bruhn, Andres and Zimmer, Henning and Weickert, Joachim and Stoll, Carsten and Theobalt, Christian},
+  title =	 {Joint estimation of motion, structure and geometry from stereo sequences},
   booktitle =	 ECCV,
   volume =	 {6314 LNCS},
   pages =	 {568-581},
@@ -1637,19 +1429,15 @@ month={Jan}
 }
 ==================
 @inproceedings{Vaudrey08ivcnz,
-  author =	 {Tobi Vaudrey and Clemens Rabe and Reinhard Klette
-                  and James Milburn},
-  title =	 {Differences Between Stereo and Motion Behavior on
-                  Synthetic and Real-World Stereo Sequences},
-  booktitle =	 {International Conference of Image and Vision
-                  Computing New Zealand (IVCNZ)},
+  author =	 {Tobi Vaudrey and Clemens Rabe and Reinhard Klette and James Milburn},
+  title =	 {Differences Between Stereo and Motion Behavior on Synthetic and Real-World Stereo Sequences},
+  booktitle =	 {International Conference of Image and Vision Computing New Zealand (IVCNZ)},
   year =	 2008,
   pages =	 {1-6}
 }
 ==================
 @article{Vedula05pami,
-  author =	 {Vedula, S. and Rander, P. and Collins, R. and
-                  Kanade, T.},
+  author =	 {Vedula, S. and Rander, P. and Collins, R. and Kanade, T.},
   title =	 {Three-dimensional scene flow},
   journal =	 PAMI,
   volume =	 27,
@@ -1661,8 +1449,7 @@ month={Jan}
 }
 ==================
 @inproceedings{Vedula99iccv,
-  author =	 {Vedula, S. and Baker, S. and Rander, P. and Collins,
-                  R. and Kanade, T.},
+  author =	 {Vedula, S. and Baker, S. and Rander, P. and Collins, R. and Kanade, T.},
   title =	 {Three-dimensional scene flow},
   booktitle =	 ICCV,
   volume =	 2,
@@ -1692,10 +1479,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Vogel14eccv,
-  author =	 {Vogel, Christoph and Schindler, Konrad and Roth,
-                  Stefan},
-  title =	 {View-consistent 3d scene flow estimation over
-                  multiple frames},
+  author =	 {Vogel, Christoph and Schindler, Konrad and Roth, Stefan},
+  title =	 {View-consistent 3d scene flow estimation over multiple frames},
   booktitle =	 ECCV,
   volume =	 8692,
   pages =	 {263-278},
@@ -1706,8 +1491,7 @@ month={Jan}
 ==================
 @article{Vogel15ijcv,
   author =	 {Vogel, C. and Schindler, K. and Roth, S.},
-  title =	 {3D Scene Flow Estimation with a Piecewise Rigid
-                  Scene Model},
+  title =	 {3D Scene Flow Estimation with a Piecewise Rigid Scene Model},
   journal =	 IJCV,
   volume =	 115,
   number =	 1,
@@ -1719,9 +1503,7 @@ month={Jan}
 ==================
 @inproceedings{Wang14accv,
   title =	 {Completed dense scene flow in RGB-D space},
-  author =	 {Wang, Yucheng and Zhang, Jian and Liu, Zicheng and
-                  Wu, Qiang and Chou, Philip and Zhang, Zhengyou and
-                  Jia, Yunde},
+  author =	 {Wang, Yucheng and Zhang, Jian and Liu, Zicheng and Wu, Qiang and Chou, Philip and Zhang, Zhengyou and Jia, Yunde},
   booktitle =	 ACCV,
   pages =	 {191--205},
   year =	 2014,
@@ -1729,11 +1511,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Wang17cvpr,
-  author =	 {Wang, Pichao and Li, Wanqing and Gao, Zhimin and
-                  Zhang, Yuyao and Tang, Chang and Ogunbona, Philip},
-  title =	 {Scene Flow to Action Map: A New Representation for
-                  RGB-D Based Action Recognition With Convolutional
-                  Neural Networks},
+  author =	 {Wang, Pichao and Li, Wanqing and Gao, Zhimin and Zhang, Yuyao and Tang, Chang and Ogunbona, Philip},
+  title =	 {Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition With Convolutional Neural Networks},
   booktitle =	 CVPR,
   month =	 {July},
   year =	 2017
@@ -1747,11 +1526,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Wedel08eccv,
-  author =	 {Wedel, Andreas and Rabe, Clemens and Vaudrey, Tobi
-                  and Brox, Thomas and Franke, Uwe and Cremers,
-                  Daniel},
-  title =	 {Efficient dense scene flow from sparse or dense
-                  stereo data},
+  author =	 {Wedel, Andreas and Rabe, Clemens and Vaudrey, Tobi and Brox, Thomas and Franke, Uwe and Cremers, Daniel},
+  title =	 {Efficient dense scene flow from sparse or dense stereo data},
   booktitle =	 ECCV,
   volume =	 {5302 LNCS},
   pages =	 {739-751},
@@ -1761,10 +1537,8 @@ month={Jan}
 }
 ==================
 @article{Wedel11ijcv,
-  author =	 {Wedel, A. and Brox, T. and Vaudrey, T. and Rabe,
-                  C. and Franke, U. and Cremers, D.},
-  title =	 {Stereoscopic Scene Flow Computation for 3D Motion
-                  Understanding},
+  author =	 {Wedel, A. and Brox, T. and Vaudrey, T. and Rabe, C. and Franke, U. and Cremers, D.},
+  title =	 {Stereoscopic Scene Flow Computation for 3D Motion Understanding},
   journal =	 IJCV,
   volume =	 95,
   number =	 1,
@@ -1787,10 +1561,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Yamaguchi14eccv,
-  author =	 {Yamaguchi, Koichiro and McAllester, David and
-                  Urtasun, Raquel},
-  title =	 {Efficient Joint Segmentation, Occlusion Labeling,
-                  Stereo and Flow Estimation},
+  author =	 {Yamaguchi, Koichiro and McAllester, David and Urtasun, Raquel},
+  title =	 {Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation},
   booktitle =	 ECCV,
   pages =	 {756-771},
   ISBN =	 {978-3-319-10602-1},
@@ -1801,8 +1573,7 @@ month={Jan}
 @inproceedings{Yang15cvpr,
   author =	 {J. Yang and H. Li},
   booktitle =	 CVPR,
-  title =	 {Dense, accurate optical flow estimation with
-                  piecewise parametric model},
+  title =	 {Dense, accurate optical flow estimation with piecewise parametric model},
   year =	 2015,
   pages =	 {1019-1027},
   ISSN =	 {1063-6919},
@@ -1811,8 +1582,7 @@ month={Jan}
 ==================
 @inproceedings{Zach07jprs,
   author =	 {Zach, C. and Pock, T. and Bischof, H.},
-  title =	 {A Duality Based Approach for Realtime TV-L1 Optical
-                  Flow},
+  title =	 {A Duality Based Approach for Realtime TV-L1 Optical Flow},
   booktitle =	 {Joint Pattern Recognition Symposium},
   pages =	 {214-223},
   ISBN =	 {978-3-540-74936-3},
@@ -1822,8 +1592,7 @@ month={Jan}
 ==================
 @inproceedings{Zanfir15iccv,
   author =	 {Zanfir, A. and Sminchisescu, C.},
-  title =	 {Large Displacement 3D Scene Flow with Occlusion
-                  Reasoning},
+  title =	 {Large Displacement 3D Scene Flow with Occlusion Reasoning},
   booktitle =	 ICCV,
   pages =	 {4417-4425},
   year =	 2015,
@@ -1833,8 +1602,7 @@ month={Jan}
 @inproceedings{Zbontar15cvpr,
   author =	 {J. Žbontar and Y. LeCun},
   booktitle =	 CVPR,
-  title =	 {Computing the stereo matching cost with a
-                  convolutional neural network},
+  title =	 {Computing the stereo matching cost with a convolutional neural network},
   year =	 2015,
   pages =	 {1592-1599},
   ISSN =	 {1063-6919},
@@ -1843,8 +1611,7 @@ month={Jan}
 ==================
 @inproceedings{Zhang00cvpr,
   author =	 {Zhang, Y. and Kambhamettu, C.},
-  title =	 {Integrated 3D scene flow and structure recovery from
-                  multiview image sequences},
+  title =	 {Integrated 3D scene flow and structure recovery from multiview image sequences},
   booktitle =	 CVPR,
   volume =	 2,
   pages =	 {674-681},
@@ -1866,8 +1633,7 @@ month={Jan}
 ==================
 @article{Zhang03tsmca,
   author =	 {Ye, Zhang and Kambhamettu, C.},
-  title =	 {On 3-D scene flow and structure recovery from
-                  multiview image sequences},
+  title =	 {On 3-D scene flow and structure recovery from multiview image sequences},
   journal =	 TSMCA,
   volume =	 33,
   number =	 4,
@@ -1878,10 +1644,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Zhang12accv,
-  author =	 {Zhang, Xiaowei and Chen, Dapeng and Yuan, Zejian and
-                  Zheng, Nanning},
-  title =	 {Dense Scene Flow Based on Depth and Multi-channel
-                  Bilateral Filter},
+  author =	 {Zhang, Xiaowei and Chen, Dapeng and Yuan, Zejian and Zheng, Nanning},
+  title =	 {Dense Scene Flow Based on Depth and Multi-channel Bilateral Filter},
   booktitle =	 ACCV,
   pages =	 {140-151},
   ISBN =	 {978-3-642-37431-9},
@@ -1890,10 +1654,8 @@ month={Jan}
 }
 ==================
 @inproceedings{Zhang15iccv,
-  title =	 {MeshStereo: A Global Stereo Model with Mesh
-                  Alignment Regularization for View Interpolation},
-  author =	 {Zhang, Chi and Li, Zhiwei and Cheng, Yanhua and Cai,
-                  Rui and Chao, Hongyang and Rui, Yong},
+  title =	 {MeshStereo: A Global Stereo Model with Mesh Alignment Regularization for View Interpolation},
+  author =	 {Zhang, Chi and Li, Zhiwei and Cheng, Yanhua and Cai, Rui and Chao, Hongyang and Rui, Yong},
   booktitle =	 ICCV,
   pages =	 {2057-2065},
   year =	 2015,
@@ -1909,8 +1671,7 @@ month={Jan}
 ==================
 @inproceedings{Zhang92pami,
   author =	 {Zhang, Zhengyou and Faugeras, Olivier D.},
-  title =	 {Estimation of Displacements from Two 3-D Frames
-                  Obtained From Stereo},
+  title =	 {Estimation of Displacements from Two 3-D Frames Obtained From Stereo},
   booktitle =	 PAMI,
   year =	 1992,
   month =	 {August}
@@ -1943,8 +1704,7 @@ month={Jan}
 }
 ==================
 @inproceedings{superpixel,
-  title =	 {Superpixels and supervoxels in an energy
-                  optimization framework},
+  title =	 {Superpixels and supervoxels in an energy optimization framework},
   author =	 {Veksler, Olga and Boykov, Yuri and Mehrani, Paria},
   booktitle =	 ECCV,
   pages =	 {211--224},
@@ -1954,8 +1714,7 @@ month={Jan}
 ==================
 @inproceedings{virtualKITTI,
   author =	 {Gaidon, A and Wang, Q and Cabon, Y and Vig, E},
-  title =	 {Virtual Worlds as Proxy for Multi-Object Tracking
-                  Analysis},
+  title =	 {Virtual Worlds as Proxy for Multi-Object Tracking Analysis},
   booktitle =	 CVPR,
   year =	 2016
 }
